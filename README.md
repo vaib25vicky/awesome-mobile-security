@@ -23,15 +23,15 @@
     * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
     * [ANDROID APPLICATIONS REVERSING 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
     * [Android Security Guidelines](https://developer.box.com/en/guides/security/)
-    * [Amandroid – A Static Analysis FrameworkA(http://pag.arguslab.org/argus-saf)
+    * [Amandroid – A Static Analysis FrameworkA(http://pag.arguslab.org/argus-saf/)
+    
     * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
     * [APK Analyzer – Static and Virtual Analysis Tool](https://github.com/sonyxperiadev/ApkAnalyser)
-    * [APK Inspector – A Powerful GUI Tool](https://github.com/honeynet/apkinspector/)ndroid WebView Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
+    * [APK Inspector – A Powerful GUI Tool](https://github.com/honeynet/apkinspector/)
+    * [Android WebView Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
     * [OWASP Mobile Top 10](https://www.owasp.org/index.php/OWASP_Mobile_Top_10)
     
  * [Books](#books)
-(https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
-* [https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
     * [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
     * [Android Security Internals](https://www.oreilly.com/library/view/android-security-internals/9781457185496/)
@@ -44,7 +44,7 @@
   
   * [Tools](#tools)
      
-     * [Static Analysis]
+     * [Static Analysis](#static)
         * [Amandroid – A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
         * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
         * [APK Analyzer – Static and Virtual Analysis Tool](https://github.com/sonyxperiadev/ApkAnalyser)
@@ -69,7 +69,7 @@
         * [Android Check – Static Code analysis plugin for Android Project](https://github.com/noveogroup/android-check)
         * [FindBugs-IDEA Static byte code analysis to look for bugs in Java code](https://plugins.jetbrains.com/plugin/3847-findbugs-idea)
       
-      * [Dynamic Analysis]
+      * [Dynamic Analysis](#dynamic)
         * [Android Hooker - Opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
         * [AppAudit - Online tool ( including an API) uses dynamic and static analysis](http://appaudit.io/)
         * [AppAudit - A bare-metal analysis tool on Android devices](https://github.com/ucsb-seclab/baredroid)
@@ -87,7 +87,7 @@
         * [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
         * [CobraDroid - Custom build of the Android operating system geared specifically for application security ](https://thecobraden.com/projects/cobradroid/)      
         
-      * [Android Online APK Analyzers]
+      * [Android Online APK Analyzers](#online)
         * [Android Observatory APK Scan](https://androidobservatory.org/upload)
         * [Android APK Decompiler](http://www.decompileandroid.com/)
         * [AndroTotal](http://andrototal.org/)
@@ -103,13 +103,18 @@
         * [Visual Threat](http://www.visualthreat.com/UIupload.action)
         * [App Critique](https://appcritique.boozallen.com/)
         
-  * [Misc.]
+  * [Labs](#labs)
+        * []()
+  
+  * [Misc.](#Misc.)
     
     * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
     * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
     
+    
+    
   
-* [iOS](#iOS)
+## IOS
   * [General](#general)
     * [Articles](#articles)
     * [Books](#books)
