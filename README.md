@@ -23,8 +23,7 @@
     * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
     * [ANDROID APPLICATIONS REVERSING 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
     * [Android Security Guidelines](https://developer.box.com/en/guides/security/)
-    * [Amandroid – A Static Analysis FrameworkA(http://pag.arguslab.org/argus-saf/)
-    
+    * [Amandroid – A Static Analysis FrameworkA](http://pag.arguslab.org/argus-saf/)
     * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
     * [APK Analyzer – Static and Virtual Analysis Tool](https://github.com/sonyxperiadev/ApkAnalyser)
     * [APK Inspector – A Powerful GUI Tool](https://github.com/honeynet/apkinspector/)
