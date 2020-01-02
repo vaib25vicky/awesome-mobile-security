@@ -21,7 +21,7 @@
     * [Pentesting Android Apps Using Frida](https://www.notsosecure.com/pentesting-android-apps-using-frida/)
     * [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
     * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
-    * [ANDROID APPLICATIONS REVERSING 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
+    * [Android Applications Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
     * [Android Security Guidelines](https://developer.box.com/en/guides/security/)
     * [Amandroid – A Static Analysis FrameworkA](http://pag.arguslab.org/argus-saf/)
     * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
@@ -79,7 +79,6 @@
         * [Marvin - Analyzes Android applications and allows tracking of an app](https://github.com/programa-stic/marvin-django)
         * [Inspeckage](https://github.com/ac-pm/Inspeckage)
         * [PATDroid - Collection of tools and data structures for analyzing Android applications](https://github.com/mingyuan-xia/PATDroid)
-        * []
         * [AndroL4b - Android security virtual machine based on ubuntu-mate](https://github.com/sh4hin/Androl4b)
         * [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2)
         * [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
@@ -103,7 +102,7 @@
         * [App Critique](https://appcritique.boozallen.com/)
         
   * [Labs](#labs)
-        * []()
+       
   
   * [Misc.](#Misc.)
     
