@@ -1,8 +1,7 @@
 # awesome-mobile-security ![awesome](https://awesome.re/badge.svg)
 
- A curated list of Mobile Security materials and resources. 
- 
- Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions from the security and developer communities.
+
+Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions from the security and developer communities.
  
 
 ## Android
