@@ -1,4 +1,4 @@
-# awesome-mobile-security ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# awesome-mobile-security ![awesome](https://awesome.re/badge.svg)
 
  A curated list of Mobile Security materials and resources. 
  
@@ -166,6 +166,7 @@
 * [Collection of the most common vulnerabilities found in iOS applications](https://github.com/felixgr/secure-ios-app-dev)
 * [IOS_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/IOS_Application_Security_Testing_Cheat_Sheet)
 * [OWASP iOS Basic Security Testing](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06b-basic-security-testing)
+* [Dynamic analysis of iOS apps w/o Jailbreak](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8)
 
 ### Books
 
