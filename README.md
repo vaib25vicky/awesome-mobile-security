@@ -34,12 +34,20 @@
 
  * [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
  * [Android Security Internals](https://www.oreilly.com/library/view/android-security-internals/9781457185496/)
+ * [Android Cookbook](https://androidcookbook.com/)
+ * [Android Hacker's Handbook](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
+ * [Android Security Cookbook](https://www.packtpub.com/in/application-development/android-security-cookbook)
+ * [The Mobile Application Hacker's Handbook](https://www.amazon.in/Mobile-Application-Hackers-Handbook-ebook/dp/B00TSA6KLG)
+ * [Android Malware and Analysis](https://www.oreilly.com/library/view/android-malware-and/9781482252200/)
+ * [Android Security: Attacks and Defenses](https://www.crcpress.com/Android-Security-Attacks-and-Defenses/Misra-Dubey/p/book/9780367380182)
  
 ### Courses
  
 * [Learning-Android-Security](https://www.lynda.com/Android-tutorials/Learning-Android-Security/689762-2.html)
 * [Mobile Application Security and Penetration Testing](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
-    
+* [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
+* [Learn the art of mobile app development](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps)
+
   
 ### Tools
      
@@ -148,17 +156,20 @@
     
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
-    
+* [Android Penetration Testing Courses](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)   
     
     
    
 ## IOS
 ### General
-### Tools
-### Talks
-### Labs
-### Courses
 ### Books
+### Courses
+### Tools
+### Labs
+### Talks
+
+
+
 ### Misc.
   
     
