@@ -23,10 +23,6 @@
 * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
 * [Android Applications Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
 * [Android Security Guidelines](https://developer.box.com/en/guides/security/)
-* [Amandroid – A Static Analysis FrameworkA](http://pag.arguslab.org/argus-saf/)
-* [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
-* [APK Analyzer – Static and Virtual Analysis Tool](https://github.com/sonyxperiadev/ApkAnalyser)
-* [APK Inspector – A Powerful GUI Tool](https://github.com/honeynet/apkinspector/)
 * [Android WebView Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
 * [OWASP Mobile Top 10](https://www.owasp.org/index.php/OWASP_Mobile_Top_10)
     
@@ -160,17 +156,73 @@
     
     
    
-## IOS
+## iOS
+
 ### General
+
+* [iOS Security](https://www.cse.wustl.edu/~jain/cse571-14/ftp/ios_security/index.html)
+* [Basic iOS Apps Security Testing lab](https://medium.com/@ehsahil/basic-ios-apps-security-testing-lab-1-2bf37c2a7d15)
+* [IOS Application security – Setting up a mobile pentesting platform](https://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/#gref)
+* [Collection of the most common vulnerabilities found in iOS applications](https://github.com/felixgr/secure-ios-app-dev)
+* [IOS_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/IOS_Application_Security_Testing_Cheat_Sheet)
+* [OWASP iOS Basic Security Testing](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06b-basic-security-testing)
+
 ### Books
+
+* [Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It](https://www.amazon.com/Hacking-Securing-iOS-Applications-Hijacking/dp/1449318746)
+* [iOS Penetration Testing](https://www.apress.com/gp/book/9781484223543)
+* [iOS App Security, Penetration Testing, and Development](https://www.allysonomalley.com/)
+* [IOS Hacker's Handbook](https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123)
+* [iOS Hacker′s Handbook](https://www.amazon.in/iOS-Hacker%E2%80%B2s-Handbook-Charlie-Miller/dp/1118204123)
+* [Hacking iOS Applications a detailed testing guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
+* [Develop iOS Apps (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+* [iOS Programming Cookbook](https://www.packtpub.com/in/application-development/ios-programming-cookbook)
+
 ### Courses
+
+* [Pentesting iOS Applications](https://www.pentesteracademy.com/course?id=2)
+* [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps)
+* [App Design and Development for iOS](https://www.coursera.org/learn/ios-app-design-development)
+
 ### Tools
+
+* [Cydia Impactor](http://www.cydiaimpactor.com/)
+* [idb - iOS App Security Assessment Tool](https://www.idbtool.com/)
+* [Frida](https://github.com/frida/frida/releases)
+* [Objection - mobile exploration toolkit by Frida](https://github.com/sensepost/objection)
+* [Bfinject](https://github.com/BishopFox/bfinject)
+* [iFunbox](http://www.i-funbox.com/)
+* [Libimobiledevice - library to communicate with the services of the Apple ios devices](https://www.libimobiledevice.org/)
+* [iRET (iOS Reverse Engineering Toolkit)](https://www.veracode.com/sites/default/files/Resources/Tools/iRETTool.zip) - includes oTool, dumpDecrypted, SQLite, Theos, Keychain_dumper, Plutil
+* [Myriam iOS](https://github.com/GeoSn0w/Myriam)
+* [iWep Pro - wireless suite of useful applications used to turn your iOS device into a wireless network diagnostic tool](https://itunes.apple.com/us/app/iweppro/id578135585?mt=8)
+* [Burp Suite](https://portswigger.net/burp/communitydownload)
+* [Cycript](https://cydia.saurik.com/api/latest/3)
+* [needle - The iOS Security Testing Framework](https://github.com/FSecureLABS/needle)
+
 ### Labs
+
+* [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
+* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
+* [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA)
+* [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs)
+* [iOS-Attack-Defense](https://github.com/ManicodeSecurity/iOS-Attack-Defense)
+
 ### Talks
 
+* [Behind the Scenes of iOS Security](https://www.youtube.com/watch?v=BLGFriOKz6U)
+* [Modern iOS Application Security](https://www.infoq.com/presentations/ios-security/)
+* [Demystifying the Secure Enclave Processor](https://www.youtube.com/watch?v=7UNeUT_sRos)
+* [HackPac Hacking Pointer Authentication in iOS User Space](https://www.youtube.com/watch?v=DJFxhShJ6Ns)
+* [Analyzing and Attacking Apple Kernel Drivers](https://www.youtube.com/watch?v=07VqX4bbXTI)
+* [Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox](https://www.youtube.com/watch?v=bP5VP7vLLKo)
+* [Reverse Engineering iOS Mobile Apps](https://www.bugcrowd.com/resources/webinars/reverse-engineering-ios-mobile-apps/)
+* [iOS 10 Kernel Heap Revisited](https://www.youtube.com/watch?v=DNW6Im31lQo)
 
 
 ### Misc.
   
-    
+* [Most usable tools for iOS penetration testing](https://github.com/ansjdnakjdnajkd/iOS)
+* [iOS-Security-Guides](https://github.com/0xmachos/iOS-Security-Guides)
+* [osx-security-awesome - OSX and iOS related security tools](https://github.com/ashishb/osx-and-ios-security-awesome)    
     
