@@ -4,9 +4,6 @@
  
  Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions from the security and developer communities.
  
- ## Contributing
-
-[Please refer to the contributing guide for details](CONTRIBUTING.md).
 
 ## Android
 
