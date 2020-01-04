@@ -124,7 +124,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android Security Labs](https://github.com/SecurityCompass/AndroidLabs)
 * [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Android-security](https://github.com/rafaeltoledo/android-security)
-* [CTF Style Vulnerable Android App](https://github.com/shahenshah99/VulnDroid)
+* [VulnDroid](https://github.com/shahenshah99/VulnDroid)
   
 ### Talks
   
