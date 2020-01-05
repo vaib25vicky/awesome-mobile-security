@@ -215,7 +215,6 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [iOS Penetration Testing](https://www.apress.com/gp/book/9781484223543)
 * [iOS App Security, Penetration Testing, and Development](https://www.allysonomalley.com/)
 * [IOS Hacker's Handbook](https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123)
-* [iOS Hacker′s Handbook](https://www.amazon.in/iOS-Hacker%E2%80%B2s-Handbook-Charlie-Miller/dp/1118204123)
 * [Hacking iOS Applications a detailed testing guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [Develop iOS Apps (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 * [iOS Programming Cookbook](https://www.packtpub.com/in/application-development/ios-programming-cookbook)
