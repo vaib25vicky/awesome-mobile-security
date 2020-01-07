@@ -100,7 +100,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [AndroL4b - Android security virtual machine based on ubuntu-mate](https://github.com/sh4hin/Androl4b)
 * [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2)
 * [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
-* [yteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
+* [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
 * [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [CobraDroid - Custom build of the Android operating system geared specifically for application security ](https://thecobraden.com/projects/cobradroid/)
 * [Magisk v20.2 - Root & Universal Systemless Interface](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
