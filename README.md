@@ -35,6 +35,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
 * [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
+* [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 
 
     
