@@ -207,6 +207,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [A Deep Dive into iOS Code Signing](https://blog.umangis.me/a-deep-dive-into-ios-code-signing/)
 * [AirDoS: remotely render any nearby iPhone or iPad unusable](https://kishanbagaria.com/airdos/)
 * [How to access and traverse a #checkra1n jailbroken iPhone File system using SSH](https://aboutdfir.com/jailbreaking-checkra1n-configuration/)
+* [Deep dive into iOS Exploit chains found in the wild - Project Zero](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html)
+* [The Fully Remote Attack Surface of the iPhone - Project Zero](https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html)
 
 
 ### Books
