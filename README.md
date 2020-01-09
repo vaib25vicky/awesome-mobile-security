@@ -165,6 +165,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Overview of common Android app vulnerabilities](https://www.bugcrowd.com/resources/webinars/overview-of-common-android-app-vulnerabilities/)
 * [Android Dev Summit 2019](https://developer.android.com/dev-summit)
 * [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
+* [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
   
 ### Misc.
     
