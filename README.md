@@ -146,6 +146,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Android-security](https://github.com/rafaeltoledo/android-security)
 * [VulnDroid](https://github.com/shahenshah99/VulnDroid)
+* [FridaLab](https://rossmarks.uk/blog/fridalab/)
   
 ### Talks
   
