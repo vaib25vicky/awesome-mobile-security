@@ -37,6 +37,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * [Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
+* [Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
 
 
     
