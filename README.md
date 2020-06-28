@@ -38,7 +38,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * [Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
 * [Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
-
+* [Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
 
     
 ### Books
@@ -58,6 +58,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Mobile Application Security and Penetration Testing](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
 * [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
 * [Learn the art of mobile app development](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps)
+* [Learning Android Malware Analysis](https://www.linkedin.com/learning/learning-android-malware-analysis)
+* [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
 
   
 ### Tools
@@ -182,8 +184,9 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Chasing the Joker](https://docs.google.com/presentation/d/1sFGAERaNRuEORaH06MmZKeFRqpJo1ol1xFieUa1X_OA/edit#slide=id.p1)
 * [Side Channel Attacks in 4G and 5G Cellular Networks-Slides](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf)
 * [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app)
-
-    
+* [Popular Android Malware 2018](https://github.com/sk3ptre/AndroidMalware_2018)
+* [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019)
+* [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020    
     
    
 ## iOS
