@@ -89,6 +89,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Infer – A Static Analysis tool for Java, C, C++ and Objective-C](https://github.com/facebook/infer)
 * [Android Check – Static Code analysis plugin for Android Project](https://github.com/noveogroup/android-check)
 * [FindBugs-IDEA Static byte code analysis to look for bugs in Java code](https://plugins.jetbrains.com/plugin/3847-findbugs-idea)
+* [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks)
       
 #### Dynamic Analysis
 
