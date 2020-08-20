@@ -7,7 +7,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 ## Android
 
 ### General - Blogs, Papers, How To's
-  
+
+* [Android Pentesting Labs - Step by Step guide for beginners](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
 * [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
 * [Secure an Android Device](https://source.android.com/security)
 * [Security tips](https://developer.android.com/training/articles/security-tips)
