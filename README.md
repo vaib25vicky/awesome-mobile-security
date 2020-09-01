@@ -8,6 +8,9 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### General - Blogs, Papers, How To's
 
+* [Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
+* [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
+* [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
 * [Android Pentesting Labs - Step by Step guide for beginners](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
 * [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
 * [Secure an Android Device](https://source.android.com/security)
@@ -116,6 +119,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
         
 #### Android Online APK Analyzers
 
+* [Oversecured](https://oversecured.com/) - A static vulnerability scanner for Android apps (APK files) containing 90+ vulnerability categories
 * [Android Observatory APK Scan](https://androidobservatory.org/upload)
 * [Android APK Decompiler](http://www.decompileandroid.com/)
 * [AndroTotal](http://andrototal.org/)
@@ -133,6 +137,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
         
 ### Labs
   
+* [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
 * [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
 * [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
