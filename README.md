@@ -158,6 +158,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android-security](https://github.com/rafaeltoledo/android-security)
 * [VulnDroid](https://github.com/shahenshah99/VulnDroid)
 * [FridaLab](https://rossmarks.uk/blog/fridalab/)
+* [Santoku Linux - Mobile Security VM](https://santoku-linux.com/)
   
 ### Talks
   
@@ -299,5 +300,6 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [osx-security-awesome - OSX and iOS related security tools](https://github.com/ashishb/osx-and-ios-security-awesome)    
 * [Trust in Apple's Secret Garden: Exploring & Reversing Apple's Continuity Protocol-Slides](https://i.blackhat.com/eu-19/Thursday/eu-19-Yen-Trust-In-Apples-Secret-Garden-Exploring-Reversing-Apples-Continuity-Protocol-3.pdf)
 * [Apple Platform Security](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf)
+* [Mobile security, forensics & malware analysis with Santoku Linux](https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/viaForensics-AppSecUSA-Nov-2013.pdf)
 
     
