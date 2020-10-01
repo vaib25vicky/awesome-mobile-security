@@ -116,6 +116,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [CobraDroid - Custom build of the Android operating system geared specifically for application security ](https://thecobraden.com/projects/cobradroid/)
 * [Magisk v20.2 - Root & Universal Systemless Interface](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+* [MOBEXLER - A Mobile Application Penetration Testing Platform](https://mobexler.com/)
 
         
 #### Android Online APK Analyzers
@@ -160,7 +161,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [VulnDroid](https://github.com/shahenshah99/VulnDroid)
 * [FridaLab](https://rossmarks.uk/blog/fridalab/)
 * [Santoku Linux - Mobile Security VM](https://santoku-linux.com/)
-* [MOBEXLER - A Mobile Application Penetration Testing Platform](https://mobexler.com/)
+
   
 ### Talks
   
