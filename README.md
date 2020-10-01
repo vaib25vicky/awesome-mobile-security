@@ -65,7 +65,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Learn the art of mobile app development](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps)
 * [Learning Android Malware Analysis](https://www.linkedin.com/learning/learning-android-malware-analysis)
 * [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
-
+* [Android Pentesting for Beginners](https://manifestsecurity.com/android-application-security/)
   
 ### Tools
      
