@@ -161,6 +161,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [VulnDroid](https://github.com/shahenshah99/VulnDroid)
 * [FridaLab](https://rossmarks.uk/blog/fridalab/)
 * [Santoku Linux - Mobile Security VM](https://santoku-linux.com/)
+* [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 
   
 ### Talks
