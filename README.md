@@ -99,6 +99,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
       
 #### Dynamic Analysis
 
+* [Adhrit - Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks](https://github.com/abhi-r3v0/Adhrit)
 * [Android Hooker - Opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
 * [AppAudit - Online tool ( including an API) uses dynamic and static analysis](http://appaudit.io/)
 * [AppAudit - A bare-metal analysis tool on Android devices](https://github.com/ucsb-seclab/baredroid)
