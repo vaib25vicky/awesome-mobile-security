@@ -169,7 +169,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
   
 ### Talks
-  
+
+* [Blowing the Cover of Android Binary Fuzzing (Slides)](https://speakerdeck.com/flankerhqd/blowing-the-cover-of-android-binary-fuzzing)
 * [One Step Ahead of Cheaters -- Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4)
 * [Vulnerable Out of the Box: An Evaluation of Android Carrier Devices](https://www.youtube.com/watch?v=R2brQvQeTvM)
 * [Rock appround the clock: Tracking malware developers by Android](https://www.youtube.com/watch?v=wd5OU9NvxjU)
