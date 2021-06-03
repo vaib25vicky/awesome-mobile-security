@@ -8,6 +8,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### General - Blogs, Papers, How To's
 
+* [Android: Exploring vulnerabilities in WebResourceResponse](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/)
 * [Android: Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
 * [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
 * [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
