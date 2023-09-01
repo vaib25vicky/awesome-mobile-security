@@ -125,6 +125,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
         
 #### Android Online APK Analyzers
 
+* [AppSweep](https://appsweep.guardsquare.com/) - Free static and interactive security testing for Android and iOS apps
 * [Oversecured](https://oversecured.com/) - A static vulnerability scanner for Android apps (APK files) containing 90+ vulnerability categories
 * [Android Observatory APK Scan](https://androidobservatory.org/upload)
 * [Android APK Decompiler](http://www.decompileandroid.com/)
@@ -273,6 +274,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
 * [decrypt0r - automatically download and decrypt SecureRom stuff](https://github.com/shinvou/decrypt0r)
 * [iOS Security Suite - an advanced and easy-to-use platform security & anti-tampering library](https://github.com/securing/IOSSecuritySuite)
+* [AppSweep](https://appsweep.guardsquare.com/) - Free static and interactive security testing for Android and iOS apps
 
 ### Labs
 
