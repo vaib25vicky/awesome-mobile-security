@@ -145,6 +145,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
   
 * [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
 * [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
+* [AndroGoat (Vulnerable Android app using Kotlin)](https://github.com/satishpatnayak/AndroGoat)
 * [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
 * [OWASP-mstg](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
