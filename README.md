@@ -239,6 +239,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 
 ### Books
 
+* [iOS Security: A Deep Dive into iOS 18.2's Innovations, AI, and Privacy Frameworks](https://www.amazon.com/-/de/dp/B0DQJFMBXB/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Ifzn3Pti_j9zBBhyPetmDJOG8_fv-DX4ws0PoVHcSMfelwERx9malbIICCv6aVfXksWoVdl6iS08V3LHcv6bSg7ePK8TWxHtWbCXZf4uHfZpIJiNPSP_UMJ6w4bh2vQ1SCo6rfvm6NBHK853x4dbOCCd6lp_IyzvoB8V_MhE9Uk-Mmoqp62CLs-oNeLTFtc_lyVmmLxgg4TO0rgen6TK1T1COjhv-qTfbY2vXXuI3dw.uMUfHcEuGoYftK0QYNzlYH5lyQlelALEEiPtJALwP4c&qid=1737713813&sr=1-17&language=en_US)
 * [Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It](https://www.amazon.com/Hacking-Securing-iOS-Applications-Hijacking/dp/1449318746)
 * [iOS Penetration Testing](https://www.apress.com/gp/book/9781484223543)
 * [iOS App Security, Penetration Testing, and Development](https://www.allysonomalley.com/)
