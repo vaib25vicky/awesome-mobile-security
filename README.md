@@ -260,6 +260,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [idb - iOS App Security Assessment Tool](https://www.idbtool.com/)
 * [Frida](https://github.com/frida/frida/releases)
 * [Objection - mobile exploration toolkit by Frida](https://github.com/sensepost/objection)
+* [Brida - bridge between Burp Suite and Frida](https://github.com/federicodotta/Brida)
 * [Bfinject](https://github.com/BishopFox/bfinject)
 * [iFunbox](http://www.i-funbox.com/)
 * [Libimobiledevice - library to communicate with the services of the Apple ios devices](https://www.libimobiledevice.org/)
