@@ -121,6 +121,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Magisk v20.2 - Root & Universal Systemless Interface](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 * [MOBEXLER - A Mobile Application Penetration Testing Platform](https://mobexler.com/)
+* [MPT - Mobile Pentest Toolkit for your Penetration Testing Workflows](https://github.com/ByteSnipers/mobile-pentest-toolkit)
 
         
 #### Android Online APK Analyzers
