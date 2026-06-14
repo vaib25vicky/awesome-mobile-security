@@ -16,6 +16,9 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
 * [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
 * [Android Pentesting Labs - Step by Step guide for beginners](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
+* [Android App Analysis Lab on Ubuntu](https://medium.com/@1200km/building-an-android-app-analysis-lab-on-ubuntu-a-practical-setup-guide-4a09fff37622)
+* [One-Prompt Android PT Lab](https://medium.com/@1200km/the-one-prompt-pt-lab-autonomous-android-security-research-with-cursor-ai-b96ed2053071)
+* [Deliberately Vulnerable Android App Covering OWASP Mobile Top 10](https://medium.com/@1200km/deliberately-vulnerable-android-app-covering-every-owasp-mobile-top-10-class-7be775fc6415)
 * [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
 * [Secure an Android Device](https://source.android.com/security)
 * [Security tips](https://developer.android.com/training/articles/security-tips)
@@ -78,6 +81,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
 * [APK Analyzer – Static and Virtual Analysis Tool](https://github.com/sonyxperiadev/ApkAnalyser)
 * [APK Inspector – A Powerful GUI Tool](https://github.com/honeynet/apkinspector/)
+* [Android Malware Analysis](https://github.com/anpa1200/Android-Malware-Analysis) - AI-assisted Android APK triage with YARA, VirusTotal context, MITRE ATT&CK output, Frida hooks, and analyst reports.
 * [Droid Hunter – Android application vulnerability analysis and Android pentest tool](https://github.com/hahwul/droid-hunter)
 * [Error Prone – Static Analysis Tool](https://github.com/google/error-prone)
 * [Findbugs – Find Bugs in Java Programs](http://findbugs.sourceforge.net/downloads.html)
@@ -166,6 +170,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [FridaLab](https://rossmarks.uk/blog/fridalab/)
 * [Santoku Linux - Mobile Security VM](https://santoku-linux.com/)
 * [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+* [VulnLab APK](https://github.com/anpa1200/Vulnerable-APK)
 
   
 ### Talks
