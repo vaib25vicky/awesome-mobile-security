@@ -204,7 +204,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app)
 * [Popular Android Malware 2018](https://github.com/sk3ptre/AndroidMalware_2018)
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019)
-* [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
+* [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)
+* [S4](https://github.com/heyaibi/s4) - Offline Android app for BIP-39 → SLIP-39 paper backup — splits any BIP-39 seed phrase or raw entropy into 2-16 SLIP-39 shares (e.g., 6/any-3, 20-33 words) and restores from any T with fingerprint; includes verbatim Recovery Guide for decades-later restore via any SLIP-39 tool; 100% offline (no INTERNET permission), GPL-3.0.    
     
    
 ## iOS
