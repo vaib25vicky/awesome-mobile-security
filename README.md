@@ -204,7 +204,8 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app)
 * [Popular Android Malware 2018](https://github.com/sk3ptre/AndroidMalware_2018)
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019)
-* [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
+* [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)
+* [Airgate](https://github.com/heyaibi/airgate) - Offline Device-Owner watchdog for hardening dedicated Android devices for cold-storage — 14 wireless/USB/system-tamper signals, reactive hardening and auto factory-reset wipe; 100% offline (no INTERNET permission, Dhizuku/DevicePolicyManager), GPL-3.0.    
     
    
 ## iOS
