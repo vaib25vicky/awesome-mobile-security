@@ -147,6 +147,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
 * [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
 * [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
+* [Damn Vulnerable Mobile App (DVMA)](https://github.com/cpeoples/dvma)
 * [OWASP-mstg](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
 * [VulnerableAndroidAppOracle](https://github.com/dan7800/VulnerableAndroidAppOracle)
 * [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
@@ -279,6 +280,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
 * [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
 * [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA)
+* [Damn Vulnerable Mobile App (DVMA)](https://github.com/cpeoples/dvma)
 * [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs)
 * [iOS-Attack-Defense](https://github.com/ManicodeSecurity/iOS-Attack-Defense)
 
