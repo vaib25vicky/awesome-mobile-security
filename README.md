@@ -270,6 +270,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Cycript](https://cydia.saurik.com/api/latest/3)
 * [needle - The iOS Security Testing Framework](https://github.com/FSecureLABS/needle)
 * [iLEAPP - iOS Logs, Events, And Preferences Parser](https://github.com/abrignoni/iLEAPP)
+* [iPhone Data Manager - macOS tool for read-only iOS backup inspection, SHA-256 verified WhatsApp/SMS transcript extraction, live system logs, and network capture](https://iphonedatamanager.com)
 * [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
 * [decrypt0r - automatically download and decrypt SecureRom stuff](https://github.com/shinvou/decrypt0r)
 * [iOS Security Suite - an advanced and easy-to-use platform security & anti-tampering library](https://github.com/securing/IOSSecuritySuite)
