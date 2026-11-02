@@ -98,6 +98,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android Check – Static Code analysis plugin for Android Project](https://github.com/noveogroup/android-check)
 * [FindBugs-IDEA Static byte code analysis to look for bugs in Java code](https://plugins.jetbrains.com/plugin/3847-findbugs-idea)
 * [APK Leaks – Scanning APK file for URIs, endpoints & secrets](https://github.com/dwisiswant0/apkleaks)
+* [FlutterGuard – Offline Flutter APK scanner for Android](https://github.com/anasfik/FlutterGuard) - Reads an installed Flutter app or APK on the device: manifest, compiled library, endpoints, exposed strings and dependency clues, with local reports.
       
 #### Dynamic Analysis
 
