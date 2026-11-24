@@ -135,7 +135,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [AVC Undroid](https://undroid.av-comparatives.org/index.php)
 * [OPSWAT](https://metadefender.opswat.com/#!/)
 * [ImmuniWeb Mobile App Scanner](https://www.htbridge.com/mobile/)
-* [Ostor Lab](https://www.ostorlab.co/scan/mobile/)
+* [Ostorlab](https://ostorlab.co/solutions/mobile-app-security-testing)
 * [Quixxi](https://quixxisecurity.com/)
 * [TraceDroid](http://tracedroid.few.vu.nl/submit.php)
 * [Visual Threat](http://www.visualthreat.com/UIupload.action)
