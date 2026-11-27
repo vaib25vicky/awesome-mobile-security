@@ -261,6 +261,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Frida](https://github.com/frida/frida/releases)
 * [Objection - mobile exploration toolkit by Frida](https://github.com/sensepost/objection)
 * [Bfinject](https://github.com/BishopFox/bfinject)
+* [IPA-Decrypt - GUI App Store / TestFlight IPA downloader and FairPlay decryptor for iOS and macOS](https://github.com/Re13orn/IPA-Decrypt)
 * [iFunbox](http://www.i-funbox.com/)
 * [Libimobiledevice - library to communicate with the services of the Apple ios devices](https://www.libimobiledevice.org/)
 * [iRET (iOS Reverse Engineering Toolkit)](https://www.veracode.com/sites/default/files/Resources/Tools/iRETTool.zip) - includes oTool, dumpDecrypted, SQLite, Theos, Keychain_dumper, Plutil
